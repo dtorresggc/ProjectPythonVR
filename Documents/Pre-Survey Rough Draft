@@ -1,0 +1,83 @@
+Pre-Survey Brainstorming 
+
+ 
+
+Four concepts VR Variable Boolean Loops  
+
+Does the participant have any knowledge of VR, basic programming concepts and code 
+
+Examples 
+
+Are you interested in technology? Yes, No, Neutral, I Don’t Know. 
+
+Do you like learning about technology? Yes, No, Neutral, I Don’t Know. 
+
+ 
+
+_____________________________________________________________________ 
+
+Pre-Survey Rough Draft  
+
+1.Have you ever used VR? Yes, No, I Don’t Know. 
+
+2.Do you use any form of VR in your personal life? Yes, No, I Don’t Know. 
+
+3.Do you think VR can be useful in learning? Yes, No, I Don’t Know. 
+
+4.Do you think using VR is hard/difficult? Yes, No, Neutral, I Don’t Know. 
+
+5.Do you think programming is hard? Yes, No, I Don’t Know. 
+
+6.Do you think programming is fun? Yes, No, I Don’t Know. 
+
+7.Do you think programming can be easy? Yes, No, Neutral, I Don’t Know 
+
+8.Do you know what a variable is? Yes, No, Kind of  
+
+9.Do you know what a Boolean is? Yes, No, Kind of 
+
+10.Do you know what a loop is? Yes, No, Kind of 
+
+_______________________________________________________________________ 
+
+Second Attempt, integers, Boolean, float and string  
+
+Which one of these is an integer? 10.0, 10, .10, I Don’t Know 
+
+ 
+
+Assign 10 to an integer variable? Int = 0, Int = 10.10, Int = 10, I Don’t Know 
+
+ 
+
+What is the value of the integer number? Int number = 7.5;  
+
+    number = 7, number = 7.0, number = 7.5, error:      incompatible types 
+
+ 
+
+A ________ value is represented by a Boolean expression. True, false, equal, Boolean  
+
+ 
+
+What values does a Boolean expression have? Yes or No, Positive or Negative, right or wrong, true or false 
+
+ 
+
+Which is the Boolean value of the statement?   7 is greater than 8 
+
+    false, error, negative, no 
+
+ 
+
+Which value can be stored in a String? 
+
+    String x = ? Word, 100, 1.111111111, 1 2 3  
+
+ 
+
+ Which one is a correct use of String data Type? 
+
+     String x = “word”, String x == “word”, String x      = 0, String x = 0000000 
+
+      
